@@ -1,0 +1,6 @@
+let s:color1 = '{color-1}'
+let s:color2 = '{color-2}'
+let s:color3 = '{color-3}'
+let s:color4 = '{color-4}'
+let s:color5 = '{color-5}'
+let s:color6 = '{color-6}'
